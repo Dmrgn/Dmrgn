@@ -1,2 +1,2 @@
-Welcome to the source code of some of the random things I have created.
+Welcome to the source code of some of the random things I have created./n
 If you decide to look at my code, remember to wear eye protection.
