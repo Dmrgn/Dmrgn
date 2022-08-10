@@ -44,5 +44,4 @@ In order of amount of experience
 - Pike
 - Turing
 
-\
 [I have 117 projects on scratch!](https://scratch.mit.edu/users/destroyer161drm/)
