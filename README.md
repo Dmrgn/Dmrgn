@@ -6,6 +6,7 @@ Your average anti-Java enthusiast
 - [Astro JS](https://astro.build/)
 - [Brain JS](https://brain.js.org/#/)
 - [Carbon](https://github.com/carbon-language/carbon-lang)
+- [Zig](https://ziglang.org/learn/)
 
 ## Goals
 In no particular order.
