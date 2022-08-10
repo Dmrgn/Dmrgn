@@ -33,7 +33,7 @@ In no particular order.
 ## Languages I have programmed in
 In order of amount of experience
 - JavaScript
-- HTML/CSS/Pug
+- HTML/CSS/SCSS/Pug
 - Java (regretfully)
 - C/C++
 - Python
