@@ -43,5 +43,6 @@ In order of amount of experience
 - Lua
 - Pike
 - Turing
+- x86 Assembly
 
 [I have 117 projects on scratch!](https://scratch.mit.edu/users/destroyer161drm/)
