@@ -1,8 +1,11 @@
 # Daniel Morgan
 Your average anti-Java enthusiast
 
-\
-Please enjoy 
+## Tech I have my eyes on
+- [bunjs](https://bun.sh/)
+- [Astro JS](https://astro.build/)
+- [Brain JS](https://brain.js.org/#/)
+- [Carbon](https://github.com/carbon-language/carbon-lang)
 
 ## Goals
 In no particular order.
@@ -17,7 +20,7 @@ In no particular order.
 - [ ] Create a game with Unreal Engine
 - [ ] Create a game with GoDot
 - [ ] Create a game with GB Studio
-- [ ] Create a turn taken multiplayer game
+- [ ] Create a multiplayer game
 - [x] [Create a website with VueJS](github.com/dmrgn/portfolio)
 - [ ] Create a website with ReactJS
 - [ ] Create a website with SvelteJS
@@ -29,7 +32,7 @@ In no particular order.
 ## Languages I have programmed in
 In order of amount of experience
 - JavaScript
-- HTML/CSS
+- HTML/CSS/Pug
 - Java (regretfully)
 - C/C++
 - Python
