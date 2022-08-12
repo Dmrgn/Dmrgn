@@ -15,7 +15,7 @@ In no particular order.
 - [x] [Create an interpreted programming language](https://github.com/Dmrgn/brainparser)
 - [ ] Create a compiled programming language
 - [ ] Create a visual programming language
-- [x] [Create a multilayer perceptron library](https://github.com/Dmrgn/perceptronjs)
+- [x] [Create a multilayer perceptron library](https://github.com/Dmrgn/perceptron-library)
 - [x] [Create a portfolio website](https://github.com/Dmrgn/portfolio)
 - [x] [Create a game with Unity](https://rocketraider.netlify.app)
 - [ ] Create a game with Unreal Engine
