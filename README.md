@@ -19,7 +19,7 @@ In no particular order.
 - [x] [Create a portfolio website](https://github.com/Dmrgn/portfolio)
 - [x] [Create a game with Unity](https://rocketraider.netlify.app)
 - [ ] Create a game with Unreal Engine
-- [ ] Create a game with GoDot
+- [ ] Create a game with Godot
 - [ ] Create a game with GB Studio
 - [ ] Create a multiplayer game
 - [x] [Create a website with VueJS](https://github.com/Dmrgn/portfolio)
