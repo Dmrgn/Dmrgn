@@ -30,8 +30,6 @@ In no particular order.
 - [ ] Release a card game
 - [ ] Master the art of deception
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmrgn)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn&hide=css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I have programmed in
