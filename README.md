@@ -1,7 +1,7 @@
 # Daniel Morgan
 Your average anti-Java enthusiast
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn&hide=css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn&hide=css&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech I have my eyes on
 - [bunjs](https://bun.sh/)
