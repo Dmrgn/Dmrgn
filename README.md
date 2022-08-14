@@ -1,5 +1,6 @@
-# Daniel Morgan
-Your average anti-Java enthusiast
+<h1 align="center">Daniel Morgan</h1>
+
+<p style="margin-bottom:10rem;">Your average anti-Java enthusiast</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn&hide=css&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
