@@ -1,6 +1,8 @@
 # Daniel Morgan
 Your average anti-Java enthusiast
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn&hide=css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tech I have my eyes on
 - [bunjs](https://bun.sh/)
 - [Astro JS](https://astro.build/)
@@ -29,8 +31,6 @@ In no particular order.
 - [ ] Release a board game
 - [ ] Release a card game
 - [ ] Master the art of deception
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn&hide=css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I have programmed in
 In order of amount of experience
