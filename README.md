@@ -32,6 +32,8 @@ In no particular order.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmrgn)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrgn)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages I have programmed in
 In order of amount of experience
 - JavaScript
