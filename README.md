@@ -2,6 +2,8 @@
 
 Your average anti-Java enthusiast
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/480514992618078228)](https://discord.com/users/480514992618078228)
+
 ## Tech I have my eyes on
 - [bunjs](https://bun.sh/)
 - [Astro JS](https://astro.build/)
