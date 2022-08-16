@@ -19,13 +19,13 @@ In no particular order.
 - [ ] Create a compiled programming language
 - [ ] Create a visual programming language
 - [x] [Create a multilayer perceptron library](https://github.com/Dmrgn/perceptron-library)
-- [x] [Create a portfolio website](https://github.com/Dmrgn/portfolio)
+- [x] [Create a portfolio website](https://github.com/Dmrgn/danielmorgan.xyz)
 - [x] [Create a game with Unity](https://rocketraider.netlify.app)
 - [ ] Create a game with Unreal Engine
 - [ ] Create a game with Godot
 - [ ] Create a game with GB Studio
 - [ ] Create a multiplayer game
-- [x] [Create a website with VueJS](https://github.com/Dmrgn/portfolio)
+- [x] [Create a website with VueJS](https://github.com/Dmrgn/danielmorgan.xyz)
 - [ ] Create a website with ReactJS
 - [ ] Create a website with SvelteJS
 - [ ] Attend a hackathon
