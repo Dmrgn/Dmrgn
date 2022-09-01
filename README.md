@@ -11,6 +11,7 @@ Your average anti-Java enthusiast
 - [Carbon](https://github.com/carbon-language/carbon-lang)
 - [Zig](https://ziglang.org/learn/)
 - [Boa](https://github.com/jasonwilliams/boa)
+- [Blazer](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 ## Goals
 In no particular order.
