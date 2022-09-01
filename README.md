@@ -10,6 +10,7 @@ Your average anti-Java enthusiast
 - [Brain JS](https://brain.js.org/#/)
 - [Carbon](https://github.com/carbon-language/carbon-lang)
 - [Zig](https://ziglang.org/learn/)
+- [Boa](https://github.com/jasonwilliams/boa)
 
 ## Goals
 In no particular order.
