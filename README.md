@@ -7,11 +7,10 @@ Your average anti-Java enthusiast
 ## Tech I have my eyes on
 - [bunjs](https://bun.sh/)
 - [Astro JS](https://astro.build/)
-- [Brain JS](https://brain.js.org/#/)
 - [Carbon](https://github.com/carbon-language/carbon-lang)
 - [Zig](https://ziglang.org/learn/)
 - [Boa](https://github.com/jasonwilliams/boa)
-- [Blazer](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+- [Tauri](https://tauri.app/)
 
 ## Goals
 In no particular order.
