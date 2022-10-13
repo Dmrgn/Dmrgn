@@ -43,6 +43,7 @@ In order of amount of experience
 - Python
 - C#
 - CoffeeScript
+- Elixir
 - F#
 - Lua
 - Pike
