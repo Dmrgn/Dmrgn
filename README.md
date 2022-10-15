@@ -40,13 +40,14 @@ In order of amount of experience
 - HTML/CSS/SCSS/Pug
 - Java (regretfully)
 - C/C++
-- Python
-- C#
 - CoffeeScript
+- Python
+- Zig
 - Elixir
 - F#
-- Lua
 - Pike
+- Lua
+- C#
 - Turing
 - x86 Assembly
 
