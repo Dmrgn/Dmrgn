@@ -27,7 +27,7 @@ In no particular order.
 - [ ] Create a game with GB Studio
 - [ ] Create a multiplayer game
 - [x] [Create a website with Vue](https://github.com/Dmrgn/danielmorgan.xyz)
-- [ ] Create a website with React
+- [X] [Create a website with React](https://github.com/Dmrgn/TicTacToe)
 - [ ] Create a website with Svelte
 - [ ] Attend a hackathon
 - [ ] Release a board game
