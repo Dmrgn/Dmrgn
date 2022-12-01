@@ -37,18 +37,16 @@ In no particular order.
 ## Languages I have programmed in
 In order of amount of experience
 - JavaScript
-- HTML/CSS/SCSS/Pug
-- Java (regretfully)
+- Java
 - C/C++
-- CoffeeScript
 - Python
 - Zig
+- CoffeeScript
+- C#
+- Lua
 - Elixir
 - F#
 - Pike
-- Lua
-- C#
-- Turing
 - x86 Assembly
 
 [I have 117 projects on scratch!](https://scratch.mit.edu/users/destroyer161drm/)
