@@ -36,6 +36,7 @@ In no particular order.
 
 ## Languages I have programmed in
 Because programming languages are cool!
+
 In order of amount of experience
 - JavaScript
 - Java
