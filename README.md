@@ -35,6 +35,7 @@ In no particular order.
 - [ ] Master the art of deception
 
 ## Languages I have programmed in
+Because programming languages are cool!
 In order of amount of experience
 - JavaScript
 - Java
