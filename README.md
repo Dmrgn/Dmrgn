@@ -36,21 +36,11 @@ In no particular order.
 - [ ] Release a card game
 - [ ] Master the art of deception
 
-## Languages I have programmed in
-Because programming languages are cool!
+## Some cool programming languages you should check out
 
-In order of amount of experience
-- JavaScript
-- Java
-- C/C++
-- Python
-- Zig
-- CoffeeScript
-- C#
-- Lua
-- Elixir
-- F#
-- Pike
-- x86 Assembly
+- [CoffeeScript](https://coffeescript.org/)
+- [Zig](https://ziglang.org/)
+- [F#](https://fsharp.org/)
+- [Pike](https://pike.lysator.liu.se/)
 
 [I have 117 projects on scratch!](https://scratch.mit.edu/users/destroyer161drm/)
