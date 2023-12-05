@@ -31,9 +31,9 @@ In no particular order.
 - [x] [Create a website with Vue](https://github.com/Dmrgn/danielmorgan.xyz)
 - [X] [Create a website with React](https://github.com/Dmrgn/TicTacToe)
 - [ ] Create a website with Svelte
-- [ ] Attend a hackathon
+- [X] Attend a hackathon
 - [ ] Release a board game
-- [ ] Release a card game
+- [X] Release a card game
 - [ ] Master the art of deception
 
 ## Some cool programming languages you should check out
