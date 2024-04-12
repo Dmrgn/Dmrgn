@@ -2,8 +2,6 @@
 
 [https://danielmorgan.xyz](https://danielmorgan.xyz)
 
-Your average anti-Java enthusiast
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/480514992618078228)](https://discord.com/users/480514992618078228)
 
 ## Cool tech I have my eyes on
